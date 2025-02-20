@@ -5,7 +5,7 @@ component "rg" {
   source = "./rg"
 
   inputs = {
-    resource_group_name     = "stacks-example-resources"
+    resource_group_name     = "stacks-demo-resources"
     resource_group_location = "East US"
   }
 
