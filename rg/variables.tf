@@ -3,7 +3,7 @@
 
 variable "resource_group_name" {
   type = string
-  default = "stacks-example-resources"
+  default = "stacks-demo-resources"
 }
 
 variable "resource_group_location" {
